@@ -6,6 +6,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+#map { position: absolute; top: 0; bottom: 0; width: 110vh; height: 100%; }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
